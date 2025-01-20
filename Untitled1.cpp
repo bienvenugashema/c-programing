@@ -1,3 +1,4 @@
+//c programmed find the largest number in an array using pointer.
 #include <stdio.h>
 int main() {
 	int arr[5] = {34,12,21,54,48};
